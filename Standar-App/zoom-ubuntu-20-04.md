@@ -31,7 +31,7 @@ zoom_amd64.deb      100%[===================>]  53,20M   796KB/s    in 82s
 $ sudo apt install ./zoom_amd64.deb
 </pre>
 
-![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/1-wget-zoom.png)
+![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/2-install%20zoom.png)
 
 <pre>
 mudaf@mudaf-Precision-7710:~$ sudo apt install ./zoom_amd64.deb
