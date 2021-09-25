@@ -78,3 +78,9 @@ Processing triggers for shared-mime-info (1.15-1) ...
 Processing triggers for desktop-file-utils (0.24-1ubuntu3) ...
 mudaf@mudaf-Precision-7710:~$
 </pre>
+
+You will be prompted to enter your password. That’s it. Zoom has been installed, and you can start using it.
+
+![alt img](1https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/3-open-zoom.png)
+
+ 
