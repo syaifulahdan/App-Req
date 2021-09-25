@@ -81,6 +81,6 @@ mudaf@mudaf-Precision-7710:~$
 
 You will be prompted to enter your password. That’s it. Zoom has been installed, and you can start using it.
 
-![alt img](1https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/3-open-zoom.png)
+![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/3-open-zoom.png)
 
  
