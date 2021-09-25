@@ -4,3 +4,5 @@ Zoom is not an open-source application, and it is not included in the Ubuntu rep
 <pre>
 $ wget https://zoom.us/client/latest/zoom_amd64.deb
 </pre>
+
+(https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Zoom-image/1-wget-zoom.png)
