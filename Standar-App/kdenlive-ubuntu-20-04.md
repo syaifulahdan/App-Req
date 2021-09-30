@@ -25,3 +25,5 @@ $ sudo apt-get install kdenlive
 
 ![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Kdenlive-image/kdenlive-1.png)
 ![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Kdenlive-image/2-kdenlinve2.png)
+
+![alt img](https://github.com/syaifulahdan/App-Req/blob/main/Standar-App/Kdenlive-image/3-kadlinlive3.png)
